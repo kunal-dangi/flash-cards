@@ -8,7 +8,7 @@ Built with Python while learning (part of my [PythonProject](https://github.com/
 
 ## Download (macOS)
 
-Grab **Flash Cards.dmg** from the [latest release](https://github.com/kunal-dangi/flash-cards/releases/latest), open it, and drag **Flash Cards** into Applications.
+Grab the **.dmg** from the [latest release](https://github.com/kunal-dangi/flash-cards/releases/latest), open it, and drag **Flash Cards** into Applications.
 
 The app isn't notarized by Apple, so the first launch will be blocked. Either right-click the app → **Open**, or run:
 
